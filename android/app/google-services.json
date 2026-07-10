@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "240691315012",
+    "project_id": "medit-editsh",
+    "storage_bucket": "medit-editsh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240691315012:android:e3b9eadbd6a7f3c18cd711",
+        "android_client_info": {
+          "package_name": "com.example.medit_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240691315012-dq338413vv3t8tl4shm9737im3nsqpsp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medit_app",
+            "certificate_hash": "db8c16851706b5ba7cb2ec5d9438fca2d7952aed"
+          }
+        },
+        {
+          "client_id": "240691315012-mj53o9p5k66ruqs6jdomj5rtcsrgre1c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medit_app",
+            "certificate_hash": "a024eaeee833efa4c529af0eca2f26f443568ac8"
+          }
+        },
+        {
+          "client_id": "240691315012-1ngle4i34dj4siu65gg4sb5ov5nodcrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb_4oIji7jM1v3WSAR_Ik8v36zX9fWUOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240691315012-1ngle4i34dj4siu65gg4sb5ov5nodcrb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "240691315012-6abiuk33ujtbu32gvlb8nmgddab9qsqn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.meditApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
